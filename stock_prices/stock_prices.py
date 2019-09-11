@@ -1,9 +1,19 @@
 #!/usr/bin/python
 
+# testArr = [10, 7, 5, 8, 11, 9]
+
 import argparse
 
 def find_max_profit(prices):
-  pass
+  maxProf = -999999999
+  for price in range(len(prices) - 2):
+    for j in range(price + 1, len(prices) - 1):
+      currProf = prices[j] - prices[price]
+      if(currProf > maxProf):
+        maxProf = currProf
+  return maxProf
+
+# find_max_profit(testArr)
 
 
 if __name__ == '__main__':
