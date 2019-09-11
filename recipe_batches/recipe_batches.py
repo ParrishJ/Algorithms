@@ -2,9 +2,37 @@
 
 import math
 
-def recipe_batches(recipe, ingredients):
-  pass 
+rec = {
+  'bread': 2,
+  'cheese': 1
+}
 
+ing = {
+  'bread': 6,
+  'cheese': 5
+}
+
+def recipe_batches(recipe, ingredients):
+  totals =[]
+  min = 0
+
+  if len(recipe) != len(ingredients):
+    return 0
+
+  else:
+    for item in recipe:
+        totals.append(ingredients[item] // recipe[item])
+
+    totals.sort()
+
+    if len(totals) == 0:
+      # print(min)
+      return min
+    else:
+      # print(totals[0])
+      return totals[0]
+
+recipe_batches(rec, ing)
 
 if __name__ == '__main__':
   # Change the entries of these dictionaries to test 
