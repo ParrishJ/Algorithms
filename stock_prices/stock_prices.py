@@ -5,7 +5,7 @@
 import argparse
 
 def find_max_profit(prices):
-  maxProf = -999999999
+  maxProf = prices[1] - prices[0]
   for price in range(len(prices) - 2):
     for j in range(price + 1, len(prices) - 1):
       currProf = prices[j] - prices[price]

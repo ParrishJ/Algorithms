@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77239cc8-3289-4ab1-9b9c-d102c23c0cab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/recipe_batches/recipe_batches.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipe_batches/recipe_batches.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eating_cookies/eating_cookies.py" beforeDir="false" afterPath="$PROJECT_DIR$/eating_cookies/eating_cookies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/making_change/making_change.py" beforeDir="false" afterPath="$PROJECT_DIR$/making_change/making_change.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock_prices/stock_prices.py" beforeDir="false" afterPath="$PROJECT_DIR$/stock_prices/stock_prices.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,84 +14,129 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stock_prices/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="396">
-                <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stock_prices/test_stock_prices.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stock_prices/stock_prices.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipe_batches/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="220">
-                <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipe_batches/test_recipe_batches.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/recipe_batches/recipe_batches.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.43449518">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/eating_cookies/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor />
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/eating_cookies/eating_cookies.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="83">
+                  <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_rps.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="242">
+                  <caret line="11" column="111" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="111" />
+                  <folding>
+                    <element signature="e#0#15#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/rock_paper_scissors/rps.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="110">
+                  <caret line="5" column="6" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/making_change/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor />
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/stock_prices/test_stock_prices.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="154">
+                  <caret line="7" column="69" lean-forward="true" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
+                  <folding>
+                    <element signature="e#0#15#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/making_change/making_change.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="440">
+                  <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/making_change/test_making_change.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="132">
+                  <caret line="6" column="43" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="43" />
+                  <folding>
+                    <element signature="e#0#15#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/stock_prices/stock_prices.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="374">
+                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/eating_cookies/test_eating_cookies.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="176">
+                  <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+                  <folding>
+                    <element signature="e#0#15#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/eating_cookies/eating_cookies.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="506">
+                  <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,8 +144,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/stock_prices/stock_prices.py" />
         <option value="$PROJECT_DIR$/recipe_batches/recipe_batches.py" />
+        <option value="$PROJECT_DIR$/stock_prices/stock_prices.py" />
+        <option value="$PROJECT_DIR$/eating_cookies/eating_cookies.py" />
+        <option value="$PROJECT_DIR$/making_change/making_change.py" />
+        <option value="$PROJECT_DIR$/rock_paper_scissors/rps.py" />
       </list>
     </option>
   </component>
@@ -112,8 +163,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="862" />
-    <option name="y" value="124" />
+    <option name="x" value="452" />
+    <option name="y" value="83" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -132,7 +183,22 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="recipe_batches" type="462c0819:PsiDirectoryNode" />
+              <item name="eating_cookies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="making_change" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="rock_paper_scissors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="stock_prices" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -157,7 +223,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.recipe_batches">
+  <component name="RunManager" selected="Python.making_change">
+    <configuration name="eating_cookies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eating_cookies" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eating_cookies/eating_cookies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="making_change" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/making_change" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/making_change/making_change.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="recipe_batches" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,6 +310,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.making_change" />
+        <item itemvalue="Python.eating_cookies" />
         <item itemvalue="Python.recipe_batches" />
         <item itemvalue="Python.stock_prices" />
       </list>
@@ -220,24 +330,33 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32827735" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32932165" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32932165" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -262,23 +381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stock_prices/test_stock_prices.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stock_prices/stock_prices.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recipe_batches/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -291,8 +393,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/recipe_batches/test_recipe_batches.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="264">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -302,7 +404,121 @@
     <entry file="file://$PROJECT_DIR$/recipe_batches/recipe_batches.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
-          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knapsack/test_knapsack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knapsack/knapsack.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knapsack/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="308">
+            <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock_prices/test_stock_prices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="69" lean-forward="true" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eating_cookies/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eating_cookies/test_eating_cookies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_rps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="111" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="111" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/making_change/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/making_change/test_making_change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eating_cookies/eating_cookies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/making_change/making_change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock_prices/stock_prices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/rps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
